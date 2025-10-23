@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="left" id="macropower-title">:wave: Web | Bot | Reverse Engineer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-ric&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-ric" /> </p>
+<!--
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="145" alt="dev gif"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://www.github.com/Daniel-Ric">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Ric&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
+-->
 
-- 🔭 I’m currently working on [different projects like PlayFab Catalog, CubeStats and View-MarketplaceNET](https://github.com/Daniel-Ric?tab=repositories)
+&nbsp;&nbsp;&nbsp;I've been coding since 2020. I build clean, fast web experiences and robust bots, and I love digging under the hood with reverse engineering—currently focusing on the PlayFab API.<br/>
+&nbsp;&nbsp;&nbsp;Client value > everything else: I ship reliable, maintainable solutions and collaborate openly to hit goals with minimal friction. <br/><br/>
 
-- 🌱 I’m currently learning **Vue3, TailwindCSS and mostly Go**
+<p align="left"><b>Short Pitch (EN):</b> Web developer & bot builder with a reverse-engineering mindset. I turn complex platform constraints (e.g. PlayFab) into practical, secure solutions—fast, testable, and ready for production.</p>
 
-- 🤝 I’m looking for help with [the PlayFab Catalog repo for the Bedrock Edition](https://github.com/Daniel-Ric/PlayFab-Catalog-Service-Bedrock)
+&nbsp;&nbsp;&nbsp;A selection of what I do:
 
-- 👨‍💻 All of my projects are available at [https://spindexgfx.com/projects](https://spindexgfx.com/projects)
+&nbsp;&nbsp;&nbsp;✔ Web development:&nbsp;&nbsp; Vue 3, JavaScript/TypeScript, Tailwind CSS, GSAP, Vite, Pinia, Node.js<br/>
+&nbsp;&nbsp;&nbsp;✔ Bot development:&nbsp;&nbsp; Discord.js (JS/TS), REST/WebSocket integrations, command frameworks, deployment & monitoring<br/>
+&nbsp;&nbsp;&nbsp;✔ Reverse engineering & APIs:&nbsp;&nbsp; Network/HTTP analysis, auth/session flows, PlayFab SDK & API usage, automation tooling<br/>
 
-- 💬 Ask me about **vue, gsap, tailwindcss**
+<!--
+## ⚡ My Technologies (optional visual grid)
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue"/>
+      <br>Vue 3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite"/>
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
+      <br>Discord.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
+-->
 
-- 📫 How to reach me **https://spindexgfx.com**
+<!-- Optional: Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-Ric&row=2&column=4&theme=onedark)](https://github.com/Daniel-Ric)
+-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href="https://github.com/Daniel-Ric">
+  <img height="200" width="52%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Ric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="200" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ric&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-ric&show_icons=true&locale=en&layout=compact" alt="daniel-ric" /></p>
+### 🔧 What I’m focusing on right now
+- Reverse engineering flows around PlayFab (auth, title data, cloud scripts, economy)
+- High-quality Discord bots (slash commands, permissions, scalable handlers)
+- Smooth web UIs with Vue 3 + Tailwind + GSAP (motion, accessibility, performance)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-ric&show_icons=true&locale=en" alt="daniel-ric" /></p>
+### 🔗 Portfolio
+- Projects: <a href="https://spindexgfx.com/projects" target="_blank">spindexgfx.com/projects</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ric&" alt="daniel-ric" /></p>
+<p align="left" id="macropower-title">:wave: <b>I’m confident my blend of web, bots, and reverse engineering brings strong value to complex projects.</b></p>
+<div align="center"></div>
