@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;I've been coding since 2020. I build clean, fast web experiences and robust bots, and I love digging under the hood with reverse engineering—currently focusing on the PlayFab API.<br/>
 &nbsp;&nbsp;&nbsp;Client value > everything else: I ship reliable, maintainable solutions and collaborate openly to hit goals with minimal friction. <br/><br/>
 
-<p align="left"><b>Short Pitch (EN):</b> Web developer & bot builder with a reverse-engineering mindset. I turn complex platform constraints (e.g. PlayFab) into practical, secure solutions—fast, testable, and ready for production.</p>
+<p align="left">Web developer & bot builder with a reverse-engineering mindset. I turn complex platform constraints (e.g. PlayFab) into practical, secure solutions—fast, testable, and ready for production.</p>
 
 &nbsp;&nbsp;&nbsp;A selection of what I do:
 
