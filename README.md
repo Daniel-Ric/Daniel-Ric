@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-ric&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-ric" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-ric" alt="daniel-ric" /></a> </p>
-
 - 🔭 I’m currently working on [different projects like PlayFab Catalog, CubeStats and View-MarketplaceNET](https://github.com/Daniel-Ric?tab=repositories)
 
 - 🌱 I’m currently learning **Vue3, TailwindCSS and mostly Go**
@@ -29,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-ric&show_icons=true&locale=en" alt="daniel-ric" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ric&" alt="daniel-ric" /></p>
-
