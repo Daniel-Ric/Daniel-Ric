@@ -73,9 +73,13 @@
 <br/><br/>
 
 ### 🔧 What I’m focusing on right now
-- Reverse engineering flows around PlayFab (auth, title data, cloud scripts, economy)
-- High-quality Discord bots (slash commands, permissions, scalable handlers)
-- Smooth web UIs with Vue 3 + Tailwind + GSAP (motion, accessibility, performance)
+
+- Building a **PlayFab Catalog (Minecraft Bedrock) API**
+- Developing a **Minecraft Bedrock Marketplace bot**
+- Creating a **Purchase API** that uses **Xbox Live APIs** in combination with **PlayFab**
+
+All projects are based on **open-source APIs**, are **fully functional**, and are available on my **GitHub profile** (including setup instructions and documentation).
+
 
 ### 🔗 Portfolio
 - Projects: <a href="https://spindexgfx.com/projects" target="_blank">spindexgfx.com/projects</a>
