@@ -21,17 +21,13 @@
 &nbsp;&nbsp;&nbsp;✔ Bot development:&nbsp;&nbsp; Discord.js (JS/TS), REST/WebSocket integrations, command frameworks, deployment & monitoring<br/>
 &nbsp;&nbsp;&nbsp;✔ Reverse engineering & APIs:&nbsp;&nbsp; Network/HTTP analysis, auth/session flows, PlayFab SDK & API usage, automation tooling<br/>
 
-<!--
+
 ## ⚡ My Technologies (optional visual grid)
 <table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript"/>
       <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript"/>
-      <br>TypeScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue"/>
@@ -59,11 +55,9 @@
     </td>
   </tr>
 </table>
--->
 
-<!-- Optional: Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-Ric&row=2&column=4&theme=onedark)](https://github.com/Daniel-Ric)
--->
+
 
 <a href="https://github.com/Daniel-Ric">
   <img height="200" width="52%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Ric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
