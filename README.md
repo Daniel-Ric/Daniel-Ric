@@ -1,6 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Web | Bot | Reverse Engineer</h1>
 
-<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="145" alt="dev gif"/>
   &nbsp;&nbsp;&nbsp;
@@ -8,7 +7,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Ric&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
--->
 
 &nbsp;&nbsp;&nbsp;I've been coding since 2020. I build clean, fast web experiences and robust bots, and I love digging under the hood with reverse engineering—currently focusing on the PlayFab API.<br/>
 &nbsp;&nbsp;&nbsp;Client value > everything else: I ship reliable, maintainable solutions and collaborate openly to hit goals with minimal friction. <br/><br/>
@@ -22,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;✔ Reverse engineering & APIs:&nbsp;&nbsp; Network/HTTP analysis, auth/session flows, PlayFab SDK & API usage, automation tooling<br/>
 
 
-## ⚡ My Technologies (optional visual grid)
+## ⚡ My Technologies
 <table align="center">
   <tr>
     <td align="center" width="90">
