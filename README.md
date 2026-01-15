@@ -46,12 +46,9 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-Ric&row=2&column=4&theme=onedark)](https://github.com/Daniel-Ric)
-
-
 <a href="https://github.com/Daniel-Ric">
-  <img height="200" width="52%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Ric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="200" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ric&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+  <img height="400" width="52%" align="center" src="https://services.spindexgfx.com/git-stats/stats/Daniel-Ric.svg" />
+  <img height="800" width="45%" align="center" src="https://services.spindexgfx.com/git-stats/trophies/Daniel-Ric.svg" />
 </a>
 
 <br/><br/>
