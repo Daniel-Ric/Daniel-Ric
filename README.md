@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Web | Bot | Reverse Engineer</h1>
 
-&nbsp;&nbsp;&nbsp;I’ve been coding since 2020. Most of my time goes into building web projects, tools, and automations that are easy to use and easy to maintain. I also enjoy figuring out how platforms behave in practice—right now I’m spending a lot of time around the PlayFab API.<br/>
-&nbsp;&nbsp;&nbsp;What matters most to me is shipping work that holds up: clear structure, sensible tradeoffs, and a workflow that makes collaboration smooth. <br/><br/>
+✌️I’ve been coding since 2020. Most of my time goes into building web projects, tools, and automations that are easy to use and easy to maintain. I also enjoy figuring out how platforms behave in practice—right now I’m spending a lot of time around the PlayFab API.<br/>
+What matters most to me is shipping work that holds up: clear structure, sensible tradeoffs, and a workflow that makes collaboration smooth. <br/><br/>
 
 <p align="left">
   I like turning “this is annoying / limited / undocumented” into something that works reliably. Whether it’s a frontend that feels snappy, a bot that behaves predictably under load, or an integration that survives real-world edge cases—I focus on results that are ready to run in production.
