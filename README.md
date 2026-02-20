@@ -49,13 +49,13 @@ What matters most to me is shipping work that holds up: clear structure, sensibl
 </table>
 
 <a href="https://services.spindexgfx.com/git-stats/" target="_blank" rel="noopener noreferrer"
-   style="display:flex; align-items:center; justify-content:center; gap:28px; text-decoration:none; flex-wrap:wrap;">
+   style="display:flex; align-items:flex-start; justify-content:center; gap:28px; text-decoration:none; flex-wrap:nowrap; width:100%;">
   <img src="https://services.spindexgfx.com/git-stats/stats/Daniel-Ric.svg"
        alt="Git Stats"
-       style="height:520px; width:auto; max-width:100%; display:block;" />
+       style="height:520px; width:auto; display:block; flex:0 0 auto;" />
   <img src="https://services.spindexgfx.com/git-stats/trophies/Daniel-Ric.svg"
        alt="Git Trophies"
-       style="height:430px; width:auto; max-width:100%; display:block;" />
+       style="height:430px; width:auto; display:block; flex:0 0 auto;" />
 </a>
 
 <br/><br/>
