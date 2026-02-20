@@ -50,6 +50,7 @@ What matters most to me is shipping work that holds up: clear structure, sensibl
 
 <a href="https://github.com/Daniel-Ric">
   <img src="https://streak-stats.demolab.com?user=Daniel-Ric&theme=dark&hide_border=true" alt="Daniel-Ric's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ric&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Daniel-Ric's GitHub Stats" />
   <!--<img height="400" width="52%" align="center" src="https://services.spindexgfx.com/git-stats/stats/Daniel-Ric.svg" />
   <img height="800" width="45%" align="center" src="https://services.spindexgfx.com/git-stats/trophies/Daniel-Ric.svg" />-->
 </a>
