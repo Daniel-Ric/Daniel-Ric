@@ -1,5 +1,3 @@
-<sub><b>Daniel-Ric / README.md</b></sub>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Daniel+%2F+Software+Developer;Vue.js+%E2%80%A2+JavaScript+%E2%80%A2+Go;Building+useful+tools+for+the+web" alt="Daniel — Software Developer" />
