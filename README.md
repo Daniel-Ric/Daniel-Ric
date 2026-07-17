@@ -1,76 +1,55 @@
-<h1 align="left" id="macropower-title">:wave: Web | Bot | Reverse Engineer</h1>
+ProfileMe.dev
 
-✌️I’ve been coding since 2020. Most of my time goes into building web projects, tools, and automations that are easy to use and easy to maintain. I also enjoy figuring out how platforms behave in practice—right now I’m spending a lot of time around the PlayFab API.<br/>
-What matters most to me is shipping work that holds up: clear structure, sensible tradeoffs, and a workflow that makes collaboration smooth. <br/><br/>
+
+Introduction
+Skills
+Socials
+Badges
+Support
+Go home
+© 2026 Dan Cranney
+
+Follow me
+|
+Buy Me a Coffee
+Support
+Make it easy for people using your products to support you or give donations.
+
+
+Previous
+buymeacoffee
+Buy Me a Coffee:
+yourname
+kofi
+Ko-fi:
+yourname
+
+Previous
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Daniel
+===============================================================================================================================
+
+Developer • Vue.js • JavaScript
+-------------------------------
+
+I'm a frontend developer focused on building clean, accessible and user-friendly web applications. I mainly work with Vue.js and JavaScript and enjoy turning complex data into intuitive digital experiences.
+
+* 🌍  I'm based in Germany
+* 🖥️  See my portfolio at [Portfolio](http://spindexgfx.com)
+* ✉️  You can contact me at [hello@spindexgfx.com](mailto:hello@spindexgfx.com)
+* 🚀  I'm currently working on [My Marketplace Projects](http://view-marketplace.net)
+* 🧠  I'm currently learning Go and scalable backend architecture
+* 👥  I'm looking to collaborate on Open-source web applications, developer tools and Minecraft Bedrock projects
+* 💬  Ask me about Interested in the technology and data behind the Minecraft Marketplace.
 
 <p align="left">
-  I like turning “this is annoying / limited / undocumented” into something that works reliably. Whether it’s a frontend that feels snappy, a bot that behaves predictably under load, or an integration that survives real-world edge cases—I focus on results that are ready to run in production.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
 
-&nbsp;&nbsp;&nbsp;A few areas I spend most of my time in:
+### Socials
 
-&nbsp;&nbsp;&nbsp;✔ Web:&nbsp;&nbsp; Vue 3, JavaScript/TypeScript, Tailwind CSS, GSAP, Vite, Pinia, Node.js<br/>
-&nbsp;&nbsp;&nbsp;✔ Bots & automation:&nbsp;&nbsp; Discord.js (JS/TS), REST/WebSocket integrations, command systems, deployment & monitoring<br/>
-&nbsp;&nbsp;&nbsp;✔ Platform & API work:&nbsp;&nbsp; Network/HTTP analysis, auth/session flows, PlayFab SDK & API usage, tooling for repetitive tasks<br/>
-
-
-## ⚡ My Technologies
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue"/>
-      <br>Vue 3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite"/>
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
-      <br>Discord.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-<a href="https://services.spindexgfx.com/git-stats/" target="_blank" rel="noopener noreferrer"
-   style="display:flex; align-items:flex-start; justify-content:center; gap:28px; text-decoration:none; flex-wrap:nowrap; width:100%;">
-  <img src="https://services.spindexgfx.com/git-stats/stats/Daniel-Ric.svg"
-       alt="Git Stats"
-       style="height:520px; width:auto; display:block; flex:0 0 auto;" />
-  <img src="https://services.spindexgfx.com/git-stats/trophies/Daniel-Ric.svg"
-       alt="Git Trophies"
-       style="height:430px; width:auto; display:block; flex:0 0 auto;" />
-</a>
-
-<br/><br/>
-
-### 🔧 What I’m working on right now
-
-- A **PlayFab Catalog API** focused on **Minecraft Bedrock**
-- A **Marketplace bot** for **Minecraft Bedrock**
-- A **Purchase API** that combines **Xbox Live** endpoints with **PlayFab**
-
-Everything is built on **public / open APIs**, kept in a state where it can actually be used, and published on my **GitHub** with setup notes and docs.
-
-
-### 🔗 Portfolio
-- Projects: <a href="https://spindexgfx.com/projects" target="_blank">spindexgfx.com/projects</a>
-
-<p align="left" id="macropower-title">:wave: <b>If you need someone who can build clean features and still stay calm when the platform gets weird, I’m happy to help.</b></p>
-<div align="center"></div>
+<p align="left"> <a href="https://www.github.com/Daniel-Ric" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/spindexgfx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-rickers-b765602b7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@spindexgfx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/cookiesimp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+ProfileMe.dev | Create an amazing GitHub profile in minutes
