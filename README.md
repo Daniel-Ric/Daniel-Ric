@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Daniel+%2F+Software+Developer;Vue.js+%E2%80%A2+JavaScript+%E2%80%A2+Go;Building+useful+tools+for+the+web" alt="Daniel — Software Developer" />
+    <img width="620" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1100&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+Daniel.;Software+Developer+from+Germany.;Building+with+Vue.js%2C+JavaScript+%26+Go.;APIs%2C+real-time+data+%26+Minecraft+Bedrock." alt="Hey, I'm Daniel — Software Developer from Germany" />
   </a>
   <br>
   <a href="https://github.com/Daniel-Ric"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
@@ -15,7 +15,7 @@
 
 I'm a software developer from Germany. I enjoy building useful web applications and figuring out how different APIs, services and data fit together.
 
-- I completed my apprenticeship in application development at **FUNKE Mediengruppe** in 2026.
+- I completed my apprenticeship in application development at **FUNKE Media Group** in 2026.
 - Most of my work is built with **Vue.js, JavaScript, Go and Node.js**.
 - I work on user interfaces as well as APIs, authentication, real-time features and service integrations.
 - A lot of my personal work revolves around the Minecraft Bedrock Marketplace and the systems behind it.
