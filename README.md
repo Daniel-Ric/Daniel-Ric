@@ -15,7 +15,7 @@
 
 I'm a software developer from Germany. I enjoy building useful web applications and figuring out how different APIs, services and data fit together.
 
-- I completed my apprenticeship in application development at **FUNKE Media Group** in 2026.
+- I completed my apprenticeship in application development at **FUNKE Mediengruppe** in 2026.
 - Most of my work is built with **Vue.js, JavaScript, Go and Node.js**.
 - I work on user interfaces as well as APIs, authentication, real-time features and service integrations.
 - A lot of my personal work revolves around the Minecraft Bedrock Marketplace and the systems behind it.
