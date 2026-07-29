@@ -5,7 +5,7 @@
   <br>
   <a href="https://github.com/Daniel-Ric"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
   <a href="https://www.linkedin.com/in/daniel-rickers-b765602b7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://spindexgfx.com"><img src="https://img.shields.io/badge/SPINDEXGFX-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SpindexGFX portfolio"></a>
+  <a href="https://danielrickers.de"><img src="https://img.shields.io/badge/PORTFOLIO-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daniel Rickers portfolio"></a>
   <a href="https://view-marketplace.net"><img src="https://img.shields.io/badge/MARKETPLACE-0891B2?style=for-the-badge&logo=minecraft&logoColor=white" alt="View Marketplace"></a>
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm a software developer from Germany. I enjoy building useful web applications and figuring out how different APIs, services and data fit together.
+I'm a software developer from Germany. I like taking awkward, data-heavy systems and turning them into web apps, APIs and tools that are easier to understand and use. Most of my personal work lives around Minecraft Bedrock, Marketplace data and PlayFab.
 
 - I completed my apprenticeship in application development at **FUNKE Mediengruppe** in 2026.
 - Most of my work is built with **Vue.js, JavaScript, Go and Node.js**.
@@ -65,7 +65,7 @@ I'm a software developer from Germany. I enjoy building useful web applications 
 
 ### [View Marketplace](https://view-marketplace.net)
 
-A platform I built to make the Minecraft Bedrock Marketplace easier to browse and understand.
+A website for exploring Minecraft Bedrock Marketplace releases, creators, sales and catalog data without digging through several different places.
 
 `Vue.js` · `JavaScript` · `REST APIs` · `Real-time events`
 
@@ -75,7 +75,7 @@ A platform I built to make the Minecraft Bedrock Marketplace easier to browse an
 
 ### [PlayFab Catalog Service — Bedrock](https://github.com/Daniel-Ric/PlayFab-Catalog-Service-Bedrock)
 
-A Node.js and Express service I built for working with Minecraft Bedrock Marketplace catalog data through PlayFab.
+An open-source API that turns PlayFab's Minecraft Bedrock Marketplace catalog data into something easier to search, follow and build on.
 
 `Node.js` · `Express` · `OpenAPI` · `SSE` · `Webhooks`
 
