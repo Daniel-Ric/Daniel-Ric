@@ -3,10 +3,10 @@
     <img width="620" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1100&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+Daniel.;Software+Developer+from+Germany.;Building+with+Vue.js%2C+JavaScript+%26+Go.;APIs%2C+real-time+data+%26+Minecraft+Bedrock." alt="Hey, I'm Daniel — Software Developer from Germany" />
   </a>
   <br>
-  <a href="https://github.com/Daniel-Ric"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <a href="https://www.linkedin.com/in/daniel-rickers-b765602b7/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://spindexgfx.com"><img src="https://img.shields.io/badge/PORTFOLIO-SPINDEXGFX-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SpindexGFX portfolio"></a>
-  <a href="https://view-marketplace.net"><img src="https://img.shields.io/badge/VIEW_MARKETPLACE-EXPLORE-0891B2?style=for-the-badge&logo=minecraft&logoColor=white" alt="View Marketplace"></a>
+  <a href="https://github.com/Daniel-Ric"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/daniel-rickers-b765602b7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://spindexgfx.com"><img src="https://img.shields.io/badge/SPINDEXGFX-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SpindexGFX portfolio"></a>
+  <a href="https://view-marketplace.net"><img src="https://img.shields.io/badge/MARKETPLACE-0891B2?style=for-the-badge&logo=minecraft&logoColor=white" alt="View Marketplace"></a>
 </div>
 
 ---
